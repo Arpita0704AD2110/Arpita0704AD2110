@@ -18,15 +18,13 @@
     <img src="https://img.shields.io/badge/Telegram-purple?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-<h1 align="center">Hi 👋, I'm Arpita Vishwakarma</h1>
+<h2 align="center">Hi 👋, I'm Arpita Vishwakarma</h2>
 
 ---
 
 <p align="center">
   Graduate student at <strong>Mahakal Institute of Technology, Ujjain</strong>  
 </p>
-
-
 
 <h3>:woman_technologist: Want to know about Me :</h3>
 <h5 align="left">I am a Passionate Self Learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
