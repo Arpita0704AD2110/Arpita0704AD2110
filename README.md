@@ -19,13 +19,15 @@
   </a>
 </div>
 
+---
 
-
+<h1>
 Hi 👋, I'm Arpita Vishwakarma
----------
-<h3 align="center">
+</h1>
+<h5 align="center">
   Graduate student at <strong>Mahakal Institute of Technology, Ujjain</strong>  
-</h3>
+</h5>
+
 
 <h3>:woman_technologist: Want to know about Me :</h3>
 <h5 align="left">I am a Passionate Self Learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
