@@ -23,6 +23,7 @@
 <p align="center">
   Graduate student at <strong>Mahakal Institute of Technology, Ujjain</strong>  
 </p>
+
 ---
 
 <h3>:woman_technologist: Want to know about Me :</h3>
