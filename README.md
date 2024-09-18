@@ -20,11 +20,10 @@
 </div>
 <h1 align="center">Hi 👋, I'm Arpita Vishwakarma</h1>
 <p align="center">
-  <b>Graduate Student</b><br>
   Student at <strong>Mahakal Institute of Technology, Ujjain</strong>  
 </p>
-
-<h3 align="center">A passionate Self Learner from India</h3>
+### :woman_technologist: About Me :
+<h3 align="left">A passionate Self Learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpita0704ad2110&label=Profile%20views&color=0e75b6&style=flat" alt="arpita0704ad2110" /> </p>
 
