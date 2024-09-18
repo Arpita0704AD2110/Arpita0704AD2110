@@ -26,7 +26,8 @@
 <br>
 
 :woman_technologist: About Me :
-<h3 align="left">A passionate Self Learner from India</h3>
+<h3 align="left">I am a Passionate Self Learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpita0704ad2110&label=Profile%20views&color=0e75b6&style=flat" alt="arpita0704ad2110" /> </p>
 
