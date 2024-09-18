@@ -18,7 +18,8 @@
     <img src="https://img.shields.io/badge/Telegram-purple?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-<h2 align="center">Hi 👋, I'm Arpita Vishwakarma</h2>
+
+<h1 align="center">Hi 👋, I'm Lakshmanan Meiyappan</h1>
 
 ---
 
