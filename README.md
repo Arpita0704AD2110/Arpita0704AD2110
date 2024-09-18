@@ -25,6 +25,9 @@ Hi 👋, I'm Arpita Vishwakarma
 <h4 align="center">
   Graduate student at <strong>Mahakal Institute of Technology, Ujjain</strong>  
 </h4>
+<h3 align="left">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kbhavre&label=Profile%20views&color=0e75b6&style=flat" alt="kbhavre" /> </p>
+</h3>
 <br>
 
 <h2>:woman_technologist: Want to know more about Me :</h2>
