@@ -27,8 +27,10 @@
   Hey
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , I Arpita Vishwakarma
 </h1>
----
-### :woman_technologist: About Me :
+<div>
+  ---
+</div>
+<div>### :woman_technologist: About Me :</div>
 I am a Passionate Self Learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 <div>
   <div align="left">
