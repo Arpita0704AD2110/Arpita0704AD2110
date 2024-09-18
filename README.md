@@ -96,14 +96,13 @@ Hi 👋, I'm Arpita Vishwakarma
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter notebook" width="60" height="60"/>
 </a>
 
-<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colab_Logo.svg" alt="google colab" width="60" height="60"/>
-</a>
 
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Icon.svg" alt="pycharm" width="60" height="60"/>
+    <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="pycharm" width="60" height="60"/>
 </a>
-
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="google colab" width="60" height="60"/>
+</a>
 
  
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
