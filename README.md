@@ -42,7 +42,7 @@ Hi 👋, I'm Arpita Vishwakarma
 - 📫 How to reach me **arpita6863vishwakarma@gmail.com**
   
 - 📄 Know about my experiences on my [Resume](https://drive.google.com/file/d/1CFO2RZErdQQ-g86jYLPhGuGrupCl4hMa/view)
-
+<br>
    <img src="https://komarev.com/ghpvc/?username=arpita0704ad2110&label=Profile%20views&color=0e75b6&style=flat" alt="arpita0704ad2110" /> 
 
 </p>
