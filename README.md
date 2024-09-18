@@ -25,7 +25,7 @@
 
 <h1>
   Hey
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , I Arpita Vishwakarma
+  <img src="https://i.pinimg.com/originals/12/b7/87/12b7877ea50bc630d3c2367553a4e1a3.gif" width="30px"/> , I Arpita Vishwakarma
 </h1>
 <div>
   ---
