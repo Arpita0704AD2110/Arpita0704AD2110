@@ -2,6 +2,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" height="300"/>
 </div>
 <div id="badges" align='center'>
+  
+ <img src="https://komarev.com/ghpvc/?username=arpita0704ad2110&label=Profile%20views&color=0e75b6&style=flat" alt="arpita0704ad2110" />
+
   <a href="https://www.linkedin.com/in/arpita-vishwakarma-81529022b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -26,10 +29,9 @@ Hi 👋, I'm Arpita Vishwakarma
   Graduate student at <strong>Mahakal Institute of Technology, Ujjain</strong>  
 </h4>
 <h3 align="left">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kbhavre&label=Profile%20views&color=0e75b6&style=flat" alt="kbhavre" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpita0704ad2110&label=Profile%20views&color=0e75b6&style=flat" alt="arpita0704ad2110" /> </p>
 </h3>
 <br>
-
 <h2>:woman_technologist: Want to know more about Me :</h2>
 <h3 align="left">I am a Passionate Self Learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> from India.
 </h3>
@@ -93,5 +95,3 @@ Hi 👋, I'm Arpita Vishwakarma
 </div>
 <br>
 <br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpita0704ad2110&label=Profile%20views&color=0e75b6&style=flat" alt="arpita0704ad2110" /> </p>
