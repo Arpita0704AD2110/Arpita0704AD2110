@@ -31,7 +31,7 @@ Hi 👋, I'm Arpita Vishwakarma
 <h3 align="left">I am a Passionate Self Learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> from India.
 </h3>
 <div>
- <img src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" width="300" height="300" align="right" alt="coding"/>
+ <img src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" width="200" height="200" align="right" alt="coding"/>
 <p align="left">
   
 - 🌱 I’m currently learning **Machine Learning, Data Analytics, Frontend**
@@ -46,7 +46,7 @@ Hi 👋, I'm Arpita Vishwakarma
 <br>
 <br>
 
-<h2 align="left">👩‍💻Languages and Tools:</h2>
+<h2 align="left">💻 Languages and Tools:</h2>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/> 
@@ -73,10 +73,16 @@ Hi 👋, I'm Arpita Vishwakarma
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpita0704ad2110&show_icons=true&locale=en&layout=compact" alt="arpita0704ad2110" /></p>
+<br>
+<br>
+<h2 align="left">📊 Github Stats:</h2>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpita0704ad2110&show_icons=true&locale=en" alt="arpita0704ad2110" /></p>
 
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpita0704ad2110&show_icons=true&locale=en&layout=compact" alt="arpita0704ad2110" /></p>
+
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpita0704ad2110&" alt="arpita0704ad2110" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpita0704ad2110&label=Profile%20views&color=0e75b6&style=flat" alt="arpita0704ad2110" /> </p>
