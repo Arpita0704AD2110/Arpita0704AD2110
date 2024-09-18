@@ -19,7 +19,7 @@
   </a>
 </div>
 
-<h1 align="center">Hi 👋, I'm Lakshmanan Meiyappan</h1>
+<h1 >Hi 👋, I'm Lakshmanan Meiyappan</h1>
 
 ---
 
