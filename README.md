@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arpita Vishwakarma</h1>
+<p align="center">
+  <b>Graduate Student</b><br>
+  Student at <strong>Mahakal Institute of Technology, Ujjain</strong>  
+</p>
 
 <h3 align="center">A passionate Self Learner from India</h3>
 
@@ -29,7 +33,7 @@
   <a href="https://www.facebook.com/people/arpita-vishwakarma/pfbid0srfwg2xzwqcnqjy4mjklptm49dkqtu5vypewpubsm3qumbvypluikf47xrq4njaul/?mibextid=zbwkwl">
     <img src="https://img.shields.io/badge/Facebook-orange?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://t.me/arpita1255">
     <img src="https://img.shields.io/badge/Telegram-purple?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 
