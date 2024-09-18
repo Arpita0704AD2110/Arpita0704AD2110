@@ -1,3 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="![image](https://github.com/user-attachments/assets/37ddf2dc-4e2a-46c3-8d31-69c6bfd7ef2c)
+" width="100"/>
 </div>
