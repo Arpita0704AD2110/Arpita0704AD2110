@@ -19,6 +19,7 @@
   </a>
 </div>
 <h1 align="center">Hi 👋, I'm Arpita Vishwakarma</h1>
+<div>---</div>
 <p align="center">
   Student at <strong>Mahakal Institute of Technology, Ujjain</strong>  
 </p>
@@ -29,7 +30,7 @@
 <h5 align="left">I am a Passionate Self Learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 </h5>
 <div>
- <img src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" width="250" align="right" alt="coding"/>
+ <img src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" width="200" align="right" alt="coding"/>
 <p align="left">
 - 🌱 I’m currently learning **Machine Learning, Data Analytics, Frontend**
 
