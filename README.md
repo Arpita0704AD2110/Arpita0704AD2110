@@ -76,16 +76,14 @@ Hi 👋, I'm Arpita Vishwakarma
 <br>
 <br>
 <h2 align="left">📊 Github Stats:</h2>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpita0704ad2110&show_icons=true&locale=en" alt="arpita0704ad2110" /></p>
-
-<br>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpita0704ad2110&" alt="arpita0704ad2110" /></p>
-<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpita0704ad2110&show_icons=true&locale=en&layout=compact" alt="arpita0704ad2110" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpita0704ad2110&label=Profile%20views&color=0e75b6&style=flat" alt="arpita0704ad2110" /> </p>
-
-<p align="left"> <a href="https://twitter.com/kbhavre78" target="blank"><img src="https://img.shields.io/twitter/follow/kbhavre78?logo=twitter&style=for-the-badge" alt="kbhavre78" /></a> </p>
+<br>
+<br>
+<h2 align="left">🏆 GitHub Trophies:</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpita0704ad2110" alt="arpita0704ad2110" /></a> </p>
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpita0704ad2110&label=Profile%20views&color=0e75b6&style=flat" alt="arpita0704ad2110" /> </p>
