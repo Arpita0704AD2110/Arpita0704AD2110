@@ -83,8 +83,10 @@ Hi 👋, I'm Arpita Vishwakarma
 </div>
 <br>
 <br>
+<div>
 <h2 align="left">🏆 GitHub Trophies:</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpita0704ad2110" alt="arpita0704ad2110" /></a> </p>
+</div>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpita0704ad2110&label=Profile%20views&color=0e75b6&style=flat" alt="arpita0704ad2110" /> </p>
