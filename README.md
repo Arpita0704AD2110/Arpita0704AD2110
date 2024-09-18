@@ -38,8 +38,7 @@ Hi 👋, I'm Arpita Vishwakarma
   
 - 🌱 I’m currently learning **Machine Learning, Data Analytics, Frontend**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://arpita0704ad2110.github.io/Arpita-Portfolio/]]((Portfolio)[https://arpita0704ad2110.github.io/Arpita-Portfolio/)
-
+- 👨‍💻 All of my projects are available at [Portfolio](https://arpita0704ad2110.github.io/Arpita-Portfolio/)
 - 📫 How to reach me **arpita6863vishwakarma@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CFO2RZErdQQ-g86jYLPhGuGrupCl4hMa/view](https://drive.google.com/file/d/1CFO2RZErdQQ-g86jYLPhGuGrupCl4hMa/view)
