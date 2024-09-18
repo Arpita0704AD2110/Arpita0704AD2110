@@ -21,20 +21,21 @@
 
 ---
 
-<h1>
+<h1 align="center">
 Hi 👋, I'm Arpita Vishwakarma
 </h1>
 <h5 align="center">
   Graduate student at <strong>Mahakal Institute of Technology, Ujjain</strong>  
 </h5>
-
-
-<h3>:woman_technologist: Want to know about Me :</h3>
-<h5 align="left">I am a Passionate Self Learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+<br>
+<br>
+<h3>:woman_technologist: Want to know more about Me :</h3>
+<h5 align="left">I am a Passionate Self Learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> from India.
 </h5>
 <div>
  <img src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" width="200" align="right" alt="coding"/>
 <p align="left">
+  
 - 🌱 I’m currently learning **Machine Learning, Data Analytics, Frontend**
 
 - 👨‍💻 All of my projects are available at [(Portfolio)[https://arpita0704ad2110.github.io/Arpita-Portfolio/]]((Portfolio)[https://arpita0704ad2110.github.io/Arpita-Portfolio/])
