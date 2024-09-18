@@ -29,7 +29,7 @@
 <h5 align="left">I am a Passionate Self Learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 </h5>
 
- <img src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" width="500" align="right" alt="coding"/>
+ <img src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" width="300" align="right" alt="coding"/>
 <p align="left">
 - 🌱 I’m currently learning **Machine Learning, Data Analytics, Frontend**
 
