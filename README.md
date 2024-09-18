@@ -21,8 +21,7 @@
 
 
 
-<h1 >Hi 👋, I'm Lakshmanan Meiyappan</h1>
-
+Hi 👋, I'm 
 ---
 
 <h3 align="center">
