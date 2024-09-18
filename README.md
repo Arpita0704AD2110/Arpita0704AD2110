@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpita Vishwakarma</h1>
----
+
 <h3 align="center">A passionate Self Learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpita0704ad2110&label=Profile%20views&color=0e75b6&style=flat" alt="arpita0704ad2110" /> </p>
@@ -16,10 +16,23 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arpita-vishwakarma-81529022b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arpita-vishwakarma-81529022b/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/people/arpita-vishwakarma/pfbid0srfwg2xzwqcnqjy4mjklptm49dkqtu5vypewpubsm3qumbvypluikf47xrq4njaul/?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/arpita-vishwakarma/pfbid0srfwg2xzwqcnqjy4mjklptm49dkqtu5vypewpubsm3qumbvypluikf47xrq4njaul/?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/arpita1942arpita/?igsh=ohvkzhh6cxr5bhlr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/arpita1942arpita/?igsh=ohvkzhh6cxr5bhlr" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@arpitavishwakarma4104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@arpitavishwakarma4104" height="30" width="40" /></a>
+ 
+<a href="https://www.linkedin.com/in/arpita-vishwakarma-81529022b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@arpitavishwakarma4104">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://www.instagram.com/arpita1942arpita/?igsh=ohvkzhh6cxr5bhlr">
+    <img src="https://img.shields.io/badge/Instagram-green?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.facebook.com/people/arpita-vishwakarma/pfbid0srfwg2xzwqcnqjy4mjklptm49dkqtu5vypewpubsm3qumbvypluikf47xrq4njaul/?mibextid=zbwkwl">
+    <img src="https://img.shields.io/badge/Facebook-orange?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Telegram-purple?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
