@@ -22,7 +22,10 @@
 <p align="center">
   Student at <strong>Mahakal Institute of Technology, Ujjain</strong>  
 </p>
-### :woman_technologist: About Me :
+<br>
+<br>
+
+:woman_technologist: About Me :
 <h3 align="left">A passionate Self Learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpita0704ad2110&label=Profile%20views&color=0e75b6&style=flat" alt="arpita0704ad2110" /> </p>
