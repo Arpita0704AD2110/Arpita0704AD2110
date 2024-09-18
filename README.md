@@ -30,9 +30,9 @@
 <div>
   ---
 </div>
-<div>### :woman_technologist: About Me :</div>
+### :woman_technologist: About Me :</div>
 I am a Passionate Self Learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-<div>
+
   <div align="left">
 - 🌱 I’m currently learning [Technology/Framework]
 - 💬 Ask me about [Technologies you are experienced in]
@@ -43,5 +43,5 @@ I am a Passionate Self Learner <img src="https://media.giphy.com/media/WUlplcMpO
   <div align="right">
     <img src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" width="100px"/>
   </div>
-</div>
+
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
