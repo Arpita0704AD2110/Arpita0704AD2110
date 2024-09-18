@@ -20,9 +20,11 @@
 </div>
 
 
-
-Hi 👋, I'm 
+<h1>
+Hi 👋, I'm Arpita Vishwakarma
 ---
+
+</h1>
 
 <h3 align="center">
   Graduate student at <strong>Mahakal Institute of Technology, Ujjain</strong>  
