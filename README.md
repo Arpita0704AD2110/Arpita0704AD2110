@@ -23,6 +23,9 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Lakshmanan Meiyappan</h1>
+
+---
+
 <p align="center">
   <b>Graduate Student</b><br>
   Student at <strong>University of Illinois at Chicago (UIC)</strong> | Former Full Stack Software Engineer at <strong>Zoho Corporation</strong>
