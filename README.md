@@ -34,9 +34,9 @@
 I am a Passionate Self Learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 <div>
   <div align="left">
-  🌱 I’m currently learning **[Technology/Framework]**
-- 💬 Ask me about **[Technologies you are experienced in]**
-- 📫 How to reach me: **[your_email@example.com]**
+- 🌱 I’m currently learning [Technology/Framework]
+- 💬 Ask me about [Technologies you are experienced in]
+- 📫 How to reach me: [your_email@example.com]
 - 📄 All of my projects are available at [My GitHub Repos](https://github.com/your_username)
 
   </div>
