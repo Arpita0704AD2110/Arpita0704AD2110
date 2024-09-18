@@ -19,29 +19,23 @@
   </a>
 </div>
 
----
-
-<span>
 <h1 align="center">
 Hi 👋, I'm Arpita Vishwakarma
 </h1>
-<h5 align="center">
+<h4 align="center">
   Graduate student at <strong>Mahakal Institute of Technology, Ujjain</strong>  
-</h5></span>
+</h4>
 <br>
-<br>
+
 <h3>:woman_technologist: Want to know more about Me :</h3>
 <h5 align="left">I am a Passionate Self Learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> from India.
 </h5>
 <div>
  <img src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" width="200" align="right" alt="coding"/>
 <p align="left">
-  
 - 🌱 I’m currently learning **Machine Learning, Data Analytics, Frontend**
-
 - 👨‍💻 All of my projects are available at [Portfolio](https://arpita0704ad2110.github.io/Arpita-Portfolio/)
 - 📫 How to reach me **arpita6863vishwakarma@gmail.com**
-
 - 📄 Know about my experiences on my [Resume](https://drive.google.com/file/d/1CFO2RZErdQQ-g86jYLPhGuGrupCl4hMa/view)
 </p>
 </div>
@@ -59,4 +53,5 @@ Hi 👋, I'm Arpita Vishwakarma
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpita0704ad2110&label=Profile%20views&color=0e75b6&style=flat" alt="arpita0704ad2110" /> </p>
 
+<p align="left"> <a href="https://twitter.com/kbhavre78" target="blank"><img src="https://img.shields.io/twitter/follow/kbhavre78?logo=twitter&style=for-the-badge" alt="kbhavre78" /></a> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpita0704ad2110" alt="arpita0704ad2110" /></a> </p>
