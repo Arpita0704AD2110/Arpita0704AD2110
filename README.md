@@ -80,10 +80,10 @@ Hi 👋, I'm Arpita Vishwakarma
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpita0704ad2110&show_icons=true&locale=en" alt="arpita0704ad2110" /></p>
 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpita0704ad2110&show_icons=true&locale=en&layout=compact" alt="arpita0704ad2110" /></p>
 
-<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpita0704ad2110&" alt="arpita0704ad2110" /></p>
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpita0704ad2110&show_icons=true&locale=en&layout=compact" alt="arpita0704ad2110" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpita0704ad2110&label=Profile%20views&color=0e75b6&style=flat" alt="arpita0704ad2110" /> </p>
 
