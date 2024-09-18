@@ -21,12 +21,13 @@
 
 ---
 
+<span>
 <h1 align="center">
 Hi 👋, I'm Arpita Vishwakarma
 </h1>
 <h5 align="center">
   Graduate student at <strong>Mahakal Institute of Technology, Ujjain</strong>  
-</h5>
+</h5></span>
 <br>
 <br>
 <h3>:woman_technologist: Want to know more about Me :</h3>
