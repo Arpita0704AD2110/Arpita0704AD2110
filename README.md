@@ -1,4 +1,3 @@
 <div id="header" align="center">
-  <img src="![image](https://github.com/user-attachments/assets/37ddf2dc-4e2a-46c3-8d31-69c6bfd7ef2c)
-" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100"/>
 </div>
