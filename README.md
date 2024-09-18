@@ -37,6 +37,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CFO2RZErdQQ-g86jYLPhGuGrupCl4hMa/view](https://drive.google.com/file/d/1CFO2RZErdQQ-g86jYLPhGuGrupCl4hMa/view)
 
+ <img src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" width="100" align="right" alt="coding"/>
 
 
 <h3 align="left">Languages and Tools:</h3>
