@@ -28,6 +28,7 @@
 :woman_technologist: About Me :
 <h5 align="left">I am a Passionate Self Learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 </h5>
+
 - 🌱 I’m currently learning **Machine Learning, Data Analytics, Frontend**
 
 - 👨‍💻 All of my projects are available at [(Portfolio)[https://arpita0704ad2110.github.io/Arpita-Portfolio/]]((Portfolio)[https://arpita0704ad2110.github.io/Arpita-Portfolio/])
