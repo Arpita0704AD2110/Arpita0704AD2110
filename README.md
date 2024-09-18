@@ -23,22 +23,21 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Lakshmanan Meiyappan</h1>
-
 ---
 
 <p align="center">
   <b>Graduate Student</b><br>
-  Student at <strong>University of Illinois at Chicago (UIC)</strong> | Former Full Stack Software Engineer at <strong>Zoho Corporation</strong>
+  Student at <strong>Mahakal Institute of Technology, Ujjain</strong> 
 </p>
 
 ### :woman_technologist: About Me :</div>
 I am a Passionate Self Learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
   <div align="left">
-- 🌱 I’m currently learning [Technology/Framework]
-- 💬 Ask me about [Technologies you are experienced in]
-- 📫 How to reach me: [your_email@example.com]
-- 📄 All of my projects are available at [My GitHub Repos](https://github.com/your_username)
+- 🌱 I’m currently learning [Technology/Framework] <br>
+- 💬 Ask me about [Technologies you are experienced in] <br>
+- 📫 How to reach me: [your_email@example.com] <br>
+- 📄 All of my projects are available at [My GitHub Repos](https://github.com/your_username) <br>
 
   </div>
   <div align="right">
@@ -74,7 +73,7 @@ I am a Passionate Self Learner <img src="https://media.giphy.com/media/WUlplcMpO
   Student at <strong>University of Illinois at Chicago (UIC)</strong> | Former Full Stack Software Engineer at <strong>Zoho Corporation</strong>
 </p>
 
----
+
 
 ### Hey! 👋
 
