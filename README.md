@@ -31,11 +31,15 @@ Hi 👋, I'm Arpita Vishwakarma
 <h5 align="left">I am a Passionate Self Learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> from India.
 </h5>
 <div>
- <img src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" width="200" align="right" alt="coding"/>
+ <img src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" width="200" height="100" align="right" alt="coding"/>
 <p align="left">
+  
 - 🌱 I’m currently learning **Machine Learning, Data Analytics, Frontend**
+  
 - 👨‍💻 All of my projects are available at [Portfolio](https://arpita0704ad2110.github.io/Arpita-Portfolio/)
+  
 - 📫 How to reach me **arpita6863vishwakarma@gmail.com**
+  
 - 📄 Know about my experiences on my [Resume](https://drive.google.com/file/d/1CFO2RZErdQQ-g86jYLPhGuGrupCl4hMa/view)
 </p>
 </div>
