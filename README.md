@@ -115,17 +115,17 @@ Hi 👋, I'm Arpita Vishwakarma
 </div>
 <br>
 <br>
-<div>
+<!-- <div>
 <h2 align="left">🏆 GitHub Trophies:</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpita0704ad2110" alt="arpita0704ad2110" /></a> </p>
-</div>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpita0704ad2110" alt="arpita0704ad2110" /></a> </p> -->
+</div> -->
 <br>
 <br>
 <div>
 <h2 align="left">📊 Github Stats:</h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpita0704ad2110&show_icons=true&locale=en" alt="arpita0704ad2110" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpita0704ad2110&show_icons=true&locale=en" alt="arpita0704ad2110" /></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpita0704ad2110&" alt="arpita0704ad2110" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpita0704ad2110&show_icons=true&locale=en&layout=compact" alt="arpita0704ad2110" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpita0704ad2110&show_icons=true&locale=en&layout=compact" alt="arpita0704ad2110" /></p> -->
   <br>
 </div>
 <br>
