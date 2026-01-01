@@ -24,7 +24,7 @@
 Hi 👋, I'm Arpita Vishwakarma
 </h1>
 <h4 align="center">
-  Graduate student at <strong>Mahakal Institute of Technology, Ujjain</strong>  
+  Recent graduate student of B.tech at <strong>Mahakal Institute of Technology, Ujjain</strong>  
 </h4>
 
 <br>
