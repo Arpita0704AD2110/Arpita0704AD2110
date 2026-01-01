@@ -35,7 +35,7 @@ Hi 👋, I'm Arpita Vishwakarma
  <img src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" width="200" height="200" align="right" alt="coding"/>
 <p align="left">
   
-- 🌱 I’m currently learning **Machine Learning, Data Analytics, Frontend**
+- 🌱 I’m currently learning **Machine Learning, Data Analytics, Full Stack Development**
   
 - 👨‍💻 All of my projects are available at [Portfolio](https://arpita0704ad2110.github.io/Arpita-Portfolio/)
   
