@@ -130,6 +130,9 @@ Hi 👋, I'm Arpita Vishwakarma
   <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arpita0704AD2110&radius=16&theme=react&area=true&order=5%22%20height=%22300%22%20alt=%22activity-graph%20graph"  />
 </div>
+
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arpita0704AD2110" alt="Arpita0704AD2110" width="100%"   />
+
   <br>
 </div>
 <br>
