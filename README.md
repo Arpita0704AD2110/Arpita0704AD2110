@@ -126,6 +126,10 @@ Hi 👋, I'm Arpita Vishwakarma
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpita0704ad2110&show_icons=true&locale=en" alt="arpita0704ad2110" /></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpita0704ad2110&" alt="arpita0704ad2110" /></p>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpita0704ad2110&show_icons=true&locale=en&layout=compact" alt="arpita0704ad2110" /></p> -->
+
+  <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arpita0704AD2110&radius=16&theme=react&area=true&order=5%22%20height=%22300%22%20alt=%22activity-graph%20graph"  />
+</div>
   <br>
 </div>
 <br>
